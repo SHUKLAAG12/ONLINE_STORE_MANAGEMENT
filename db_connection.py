@@ -4,8 +4,8 @@ import streamlit as st
 # Database connection details
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root", # Replace with your MySQL username
-    "password": "g3JZhLeN", # Replace with your MySQL password
+    "user": "", # Replace with your MySQL username
+    "password": "", # Replace with your MySQL password
     "database": "online_shopping_db"
 }
 
