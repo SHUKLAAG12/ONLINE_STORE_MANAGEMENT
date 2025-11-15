@@ -11,8 +11,8 @@ from mysql.connector import Error
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "g3JZhLeN",
-    "database": "online_shopping_db"
+    "password": "your password",
+    "database": "your db"
 }
 
 def read_sql_file(filepath):
